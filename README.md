@@ -28,5 +28,6 @@ MIT License - lihat [LICENSE](LICENSE) untuk detail lebih lanjut.
 
 Link ke profil GitHub Anda: [GitHub Username](https://github.com/username)  
 
-### Telegram- Developer: [@devonaji](https://t.me/devonaji)  
-- Public Channel: [@caterscam](https://t.me/caterscam)
+### Telegram<div style="color:blue;">  
+Developer: [@devonaji](https://t.me/devonaji)Public Channel: [@caterscam](https://t.me/caterscam)  
+</div>
